@@ -10,8 +10,11 @@ Input:
 Output:
 
 if (None of the numbers is the prefix of any other number)
+
   print(YES)
+  
 else
+
   print(NO)
 
 
