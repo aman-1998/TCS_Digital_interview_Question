@@ -18,28 +18,38 @@ else
   print(NO)
 
 
+
 Sample 1:
 
 Input:
 
 Enter no. of inputs: 4
+
 Enter 1 input: 988327438
+
 Enter 2 input: 91143568
+
 Enter 3 input: 9883
+
 Enter 4 input: 912378
 
 Output:
 
 NO
 
+
 Sample 2:
 
 Input:
 
 Enter no. of inputs: 4
+
 Enter 1 input: 988327438
+
 Enter 2 input: 91143567
+
 Enter 3 input: 9884
+
 Enter 4 input: 912345
 
 Output:
