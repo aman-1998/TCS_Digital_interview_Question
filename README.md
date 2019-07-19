@@ -3,6 +3,7 @@ TCS_Digital_interview_Question using java:
 Input: 
 
 1) No. of inputs
+
 2)Each of the input should be a number with length less than or equal to 10 (e.g. phone number)
 
 
